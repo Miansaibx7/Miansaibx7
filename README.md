@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Mian Muhammad Waqas</h1>
 <h3 align="center">
-Python Developer | Django & Django REST Framework | React.js, JavaScript & Tailwind CSS | Flask, CORS Headers, GUI & Data Tools with NumPy
+Python Developer | Django, DRF & Flask | React.js, JavaScript, Tailwind CSS & Bootstrap | GUI & Data Tools with NumPy
 </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=miansaibx7&label=Profile%20views&color=0e75b6&style=flat" alt="miansaibx7" /> </p>
