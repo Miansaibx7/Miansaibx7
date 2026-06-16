@@ -1,11 +1,9 @@
-<!-- ================= HERO ================= -->
+<!-- HERO BANNER -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0e75b6,100:00c9ff&height=200&section=header&text=Mian%20Muhammad%20Waqas&fontSize=35&fontColor=ffffff"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0e75b6,100:00c9ff&height=200&section=header&text=Mian%20Muhammad%20Waqas&fontSize=35&fontColor=ffffff&animation=fadeIn"/>
 </p>
 
-<h3 align="center">
-Python Developer | Django | DRF | Flask | React.js | SaaS Engineer
-</h3>
+<h3 align="center">Python Developer | Django | DRF | Flask | React.js | SaaS Builder | Full-Stack Engineer</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=miansaibx7&label=Profile%20Views&color=0e75b6&style=flat" />
@@ -14,77 +12,84 @@ Python Developer | Django | DRF | Flask | React.js | SaaS Engineer
 ---
 
 ## 🚀 About Me
-- 🔭 Building scalable **SaaS & backend systems**
-- 🌱 Learning **DevOps, Docker, AWS, System Design**
-- 👯 Open for **Full-stack SaaS collaborations**
-- 💬 Ask me about **Django, APIs, Authentication, React**
+
+- 🔭 Building **Full-Stack SaaS applications (Django + React)**
+- 🌱 Learning **DevOps, Docker, AWS & scalable backend systems**
+- 👯 Open to collaborate on **SaaS / AI / HealthTech projects**
+- 💬 Ask me about **Django, DRF, Flask, React, APIs, Authentication systems**
 - 📫 Email: **mianmwaqas77@gmail.com**
 
 ---
 
 ## 🧠 Tech Stack
 
-**Backend:** Django | DRF | Flask | PostgreSQL | MySQL  
-**Frontend:** React.js | JavaScript | Tailwind | Bootstrap  
-**Tools:** Docker | Git | GitHub | Postman | Linux  
-**Concepts:** REST APIs | JWT | OAuth | SaaS Architecture  
+### 👨‍💻 Backend
+- Django | Django REST Framework | Flask
+- PostgreSQL | MySQL | Mongodb
+- REST APIs | Authentication Systems | JWT | OAuth
+
+### 🎨 Frontend
+- React.js | JavaScript | Tailwind CSS | Bootstrap | HTML | CSS
+
+### ☁️ DevOps & Tools
+- Docker | Git | GitHub
+- AWS Basics | Linux
+- Postman | VS Code
 
 ---
 
 ## 📌 Featured Projects
 
-- 🔹 SaaS Authentication System (JWT + OAuth + OTP)
-- 🔹 Dashboard Analytics API (Django REST Framework)
-- 🔹 Hospital Management System (Full-stack CRUD system)
+### 🔹 SaaS Authentication System (Django + React)
+- JWT Authentication
+- Google OAuth Login
+- OTP Verification
+- Role-based Access Control
 
----
+### 🔹 Hospital Management System
+- Built using Laravel / Django
+- Patient & Doctor modules
+- Database design & reporting
 
-## 🏆 GitHub Achievements
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=miansaibx7&theme=algolia&no-frame=true&margin-w=10&row=2&column=4" />
-</p>
+### 🔹 Dashboard Analytics System
+- REST API backend
+- Live charts & analytics
+- Trend tracking system
 
 ---
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=miansaibx7&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=miansaibx7&show_icons=true&theme=default" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=miansaibx7&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=miansaibx7" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=miansaibx7&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=miansaibx7&layout=compact" />
 </p>
 
 ---
 
-## 🌐 Connect With Me
+## 🏆 Achievements
 
 <p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=miansaibx7&theme=flat&no-frame=true&row=2&column=4"/>
+</p>
 
+---
+
+## 🌍 Connect With Me
+
+<p align="center">
 <a href="https://linkedin.com/in/mian-m-waqas">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
 </a>
 
 <a href="mailto:mianmwaqas77@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail"/>
 </a>
-
-<a href="https://github.com/miansaibx7">
-  <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-</p>
-
----
-
-## 🐍 Contribution Snake 
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" />
 </p>
