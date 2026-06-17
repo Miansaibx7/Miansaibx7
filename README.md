@@ -34,7 +34,7 @@
 ### ☁️ DevOps & Tools
 - Docker | Git | GitHub
 - AWS Basics | Linux
-- Postman | VS Code
+- VS Code
 
 ---
 
