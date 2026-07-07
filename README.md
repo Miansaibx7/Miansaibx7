@@ -1,9 +1,8 @@
-<!-- HERO BANNER -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0e75b6,100:00c9ff&height=200&section=header&text=Mian%20Muhammad%20Waqas&fontSize=35&fontColor=ffffff&animation=fadeIn"/>
 </p>
 
-<h3 align="center">Python Developer | Django | DRF | Flask | React.js | SaaS Builder | Full-Stack Engineer</h3>
+<h3 align="center">Python Developer | Django | DRF | React.js | SaaS Builder | Full-Stack Engineer</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=miansaibx7&label=Profile%20Views&color=0e75b6&style=flat" />
@@ -13,48 +12,52 @@
 
 ## 🚀 About Me
 
-- 🔭 Building **Full-Stack SaaS applications (Django + React)**
-- 🌱 Learning **DevOps, Docker, AWS & scalable backend systems**
-- 👯 Open to collaborate on **SaaS / AI / HealthTech projects**
-- 💬 Ask me about **Django, DRF, Flask, React, APIs, Authentication systems**
-- 📫 Email: **mianmwaqas77@gmail.com**
+- 🎓 **Background:** Master of Science in Computer Science (Class of 2024).
+- 🔭 **Currently Building:** Full-Stack SaaS applications and management systems using **Django & React**.
+- 🔬 **Research Interests:** Privacy-Preserving Federated Learning and Medical AI.
+- 🌱 **Currently Learning:** DevOps, Docker containerization, AWS, and scalable backend architectures.
+- 👯 **Open to Collaborate On:** SaaS platforms, EdTech, HealthTech, and AI-driven projects.
+- 📫 **Reach Me At:** mianmwaqas77@gmail.com
 
 ---
 
 ## 🧠 Tech Stack
 
 ### 👨‍💻 Backend
-- Django | Django REST Framework | Flask
-- PostgreSQL | MySQL | Mongodb
-- REST APIs | Authentication Systems | JWT | OAuth
+- Python | Django | Django REST Framework (DRF) | Flask
+- PostgreSQL | MySQL | MongoDB
+- RESTful APIs | JWT & OAuth Authentication 
 
 ### 🎨 Frontend
-- React.js | JavaScript | Tailwind CSS | Bootstrap | HTML | CSS
+- React.js | JavaScript (ES6+) | Tailwind CSS | Bootstrap | HTML5 | CSS3
 
-### ☁️ DevOps & Tools
-- Docker | Git | GitHub
-- AWS Basics | Linux
+### ☁️ DevOps & Environment
+- Git | GitHub | Docker
+- Linux (Ubuntu) | AWS Basics
 - VS Code
 
 ---
 
 ## 📌 Featured Projects
 
-### 🔹 SaaS Authentication System (Django + React)
-- JWT Authentication
-- Google OAuth Login
-- OTP Verification
-- Role-based Access Control
+### 🔹 EduManager Pro
+- Comprehensive School Management System.
+- High-end UI/UX integration.
+- Custom dashboards for diverse user roles.
+
+### 🔹 SaaS Authentication System
+- Django-based backend with JWT Authentication.
+- Social Login (Google, GitHub, LinkedIn, Facebook).
+- Secure Email OTP Verification & Password Management.
 
 ### 🔹 Hospital Management System
-- Built using Laravel / Django
-- Patient & Doctor modules
-- Database design & reporting
+- Master's Degree Project.
+- Built utilizing Laravel, PHP, JavaScript, and MySQL.
+- Comprehensive Patient & Doctor modules with advanced reporting.
 
-### 🔹 Dashboard Analytics System
-- REST API backend
-- Live charts & analytics
-- Trend tracking system
+### 🔹 Dynamic Room Booking Application
+- Full-stack application for managing reservations.
+- Features grouped dates display and real-time availability tracking.
 
 ---
 
@@ -77,11 +80,10 @@
 ## 🌍 Connect With Me
 
 <p align="center">
-<a href="https://linkedin.com/in/mian-m-waqas">
-<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
-</a>
-
-<a href="mailto:mianmwaqas77@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail"/>
-</a>
+  <a href="https://linkedin.com/in/mian-m-waqas">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
+  </a>
+  <a href="mailto:mianmwaqas77@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail"/>
+  </a>
 </p>
