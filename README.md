@@ -37,7 +37,7 @@ I build the parts of an application most developers avoid: authentication, secur
 
 | Layer | Tools |
 |---|---|
-| **Backend** | Python · Django · Django REST Framework · Flask · Celery. Redis |
+| **Backend** | Python · Django · Django REST Framework · Flask · Celery |
 | **Databases** | PostgreSQL · MySQL · MongoDB |
 | **Auth & Security** | JWT · OAuth2 (Google/GitHub/LinkedIn/Facebook) · TOTP 2FA · OTP Email Flows |
 | **Frontend** | React.js · JavaScript (ES6+) · Tailwind CSS · Bootstrap |
@@ -68,17 +68,33 @@ Patient/doctor record management with advanced reporting modules, built as part 
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=miansaibx7&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=miansaibx7&layout=compact&theme=tokyonight&hide_border=true"/>
+  <img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api?username=miansaibx7&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
+  <img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=miansaibx7&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=miansaibx7&theme=tokyonight&hide_border=true"/>
+  <!-- FIX: github-readme-streak-stats.herokuapp.com is permanently dead —
+       Heroku shut down free-tier apps in Nov 2022 and this URL was never
+       migrated. streak-stats.demolab.com is the actively maintained
+       community mirror most profiles have since switched to. -->
+  <img src="https://streak-stats.demolab.com/?user=miansaibx7&theme=tokyonight&hide_border=true"/>
 </p>
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=miansaibx7&theme=tokyo-night&hide_border=true"/>
 </p>
+
+<!-- NOTE: the two vercel.app-hosted services above (github-readme-stats and
+     activity-graph) are free shared community deployments. They are
+     occasionally rate-limited under heavy global traffic and may show a
+     temporary error image — reloading the page usually fixes it within a
+     few minutes. If it persists for you specifically, the most likely
+     cause is the username in the URL not matching your actual GitHub
+     handle exactly (case-sensitive). If it stays broken long-term, you can
+     self-host github-readme-stats on your own free Vercel account by
+     forking https://github.com/anuraghazra/github-readme-stats and
+     pointing the URLs above at your own deployment instead of the shared
+     one — this removes the rate-limit risk entirely. -->
 
 ---
 
