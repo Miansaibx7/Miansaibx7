@@ -1,15 +1,15 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0e75b6,100:00c9ff&height=220&section=header&text=Mian%20Muhammad%20Waqas&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Backend-Focused%20Full-Stack%20Engineer%20%7C%20Django%20%26%20DRF%20Specialist&descAlignY=55&descSize=18"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0e75b6,100:00c9ff&height=220&section=header&text=Mian%20Muhammad%20Waqas&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Backend-Focused%20Full-Stack%20Engineer%20%7C%20Django%20%26%20DRF%20Specialist&descAlignY=55&descSize=18" alt="Header Image"/>
 </p>
 
 <p align="center">
-  <a href="https://linkedin.com/in/mian-m-waqas">
-    <img src="https://img.shields.io/badge/LinkedIn-0e75b6?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="mailto:mianmwaqas77@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  <img src="https://komarev.com/ghpvc/?username=miansaibx7&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
+  <a href="https://linkedin.com/in/mian-m-waqas">
+    <img src="https://img.shields.io/badge/LinkedIn-0e75b6?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:mianmwaqas77@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=miansaibx7&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
 </p>
 
 <h3 align="center">🚀 I design and ship secure, production-grade backend systems — not just CRUD apps.</h3>
@@ -32,7 +32,7 @@ I build the parts of an application most developers avoid: authentication, secur
 ### 🧠 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,django,flask,fastapi,postgres,mysql,mongodb,react,js,tailwind,bootstrap,html,css,docker,aws,linux,git,githubactions,vscode,figma&theme=light"/>
+  <img src="https://skillicons.dev/icons?i=python,django,flask,fastapi,postgres,mysql,mongodb,react,js,tailwind,bootstrap,html,css,docker,aws,linux,git,githubactions,vscode,figma&theme=light"/>
 </p>
 
 | Layer | Tools |
@@ -68,33 +68,22 @@ Patient/doctor record management with advanced reporting modules, built as part 
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api?username=miansaibx7&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
-  <img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=miansaibx7&layout=compact&theme=tokyonight&hide_border=true"/>
+  <img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api?username=miansaibx7&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
+  <img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=miansaibx7&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
 <p align="center">
-  <!-- FIX: github-readme-streak-stats.herokuapp.com is permanently dead —
-       Heroku shut down free-tier apps in Nov 2022 and this URL was never
-       migrated. streak-stats.demolab.com is the actively maintained
-       community mirror most profiles have since switched to. -->
-  <img src="https://streak-stats.demolab.com/?user=miansaibx7&theme=tokyonight&hide_border=true"/>
+  <!-- FIX: github-readme-streak-stats.herokuapp.com is permanently dead —
+       Heroku shut down free-tier apps in Nov 2022 and this URL was never
+       migrated. streak-stats.demolab.com is the actively maintained
+       community mirror most profiles have since switched to. -->
+  <img src="https://streak-stats.demolab.com/?user=miansaibx7&theme=tokyonight&hide_border=true"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=miansaibx7&theme=tokyo-night&hide_border=true"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=miansaibx7&theme=tokyo-night&hide_border=true"/>
 </p>
 
-<!-- NOTE: the two vercel.app-hosted services above (github-readme-stats and
-     activity-graph) are free shared community deployments. They are
-     occasionally rate-limited under heavy global traffic and may show a
-     temporary error image — reloading the page usually fixes it within a
-     few minutes. If it persists for you specifically, the most likely
-     cause is the username in the URL not matching your actual GitHub
-     handle exactly (case-sensitive). If it stays broken long-term, you can
-     self-host github-readme-stats on your own free Vercel account by
-     forking https://github.com/anuraghazra/github-readme-stats and
-     pointing the URLs above at your own deployment instead of the shared
-     one — this removes the rate-limit risk entirely. -->
 
 ---
 
@@ -103,12 +92,12 @@ Patient/doctor record management with advanced reporting modules, built as part 
 I'm open to collaborating on **SaaS platforms, EdTech, HealthTech, and AI-driven products** — especially where backend security and data integrity actually matter.
 
 <p align="center">
-  <a href="https://linkedin.com/in/mian-m-waqas">
-    <img src="https://img.shields.io/badge/Let's%20Connect-0e75b6?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="mailto:mianmwaqas77@gmail.com">
-    <img src="https://img.shields.io/badge/Say%20Hello-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
+  <a href="https://linkedin.com/in/mian-m-waqas">
+    <img src="https://img.shields.io/badge/Let's%20Connect-0e75b6?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:mianmwaqas77@gmail.com">
+    <img src="https://img.shields.io/badge/Say%20Hello-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
 </p>
 
 <p align="center"><i>⭐ If any of my repos helped you, a star goes a long way — thanks for stopping by.</i></p>
