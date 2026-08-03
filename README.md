@@ -1,68 +1,100 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0e75b6,100:00c9ff&height=220&section=header&text=Mian%20Muhammad%20Waqas&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Backend-Focused%20Full-Stack%20Engineer%20%7C%20Django%20%26%20DRF%20Specialist&descAlignY=55&descSize=18"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0e75b6,100:00c9ff&height=220&section=header&text=Mian%20Muhammad%20Waqas&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Backend-Focused%20Full-Stack%20Engineer%20%7C%20Django%20%26%20DRF%20Specialist&descAlignY=55&descSize=18"/>
 </p>
 
 <p align="center">
-  <a href="https://linkedin.com/in/mian-m-waqas"><img src="https://img.shields.io/badge/LinkedIn-0e75b6?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="mailto:mianmwaqas77@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-  <img src="https://komarev.com/ghpvc/?username=miansaibx7&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views"/>
+  <a href="https://linkedin.com/in/mian-m-waqas">
+    <img src="https://img.shields.io/badge/LinkedIn-0e75b6?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:mianmwaqas77@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=miansaibx7&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
 </p>
 
-<h3 align="center">🚀 I ship secure, production-grade backends — not just CRUD apps.</h3>
+<h3 align="center">🚀 I design and ship secure, production-grade backend systems — not just CRUD apps.</h3>
 
 <p align="center">
-I build the systems that fail silently in demos and loudly in production: <b>authentication, concurrency, and data integrity</b>. My focus is engineering resilient Django/DRF architecture that holds up under real users, real load, and real attackers.
+I build the parts of an application most developers avoid: authentication, security, concurrency, and data integrity — the systems that fail silently in demos and loudly in production. My focus is Django/DRF backends that hold up under real users, real load, and real attackers.
 </p>
 
 ---
 
-### ⚡ What I Do
-- 🔐 **Hardened Security:** JWT/OAuth2 flows, TOTP 2FA, atomic OTP verification, and brute-force protection.
-- 🏗️ **Solid Architecture:** Service-layer patterns, atomic transactions, row-level locking, and audit logging.
-- 🎓 **Research-Backed:** MSc in Computer Science (2024), focusing on Privacy-Preserving Federated Learning & Medical AI.
-- 🌐 **Full-Stack Delivery:** Seamlessly connecting robust Python APIs with modern React frontends.
+### ⚡ What I actually do
+- 🔐 **Secure auth systems** — JWT, OAuth2 (Google/GitHub/LinkedIn/Facebook), TOTP-based 2FA, OTP email verification, brute-force protection, and session/device management — built to survive concurrency, not just pass the happy path.
+- 🏗️ **Production-minded backend architecture** — service-layer separation, atomic transactions, row-level locking, audit logging, and GDPR-compliant data lifecycles.
+- 🎨 **Full-stack delivery** — Django REST APIs paired with React front-ends, shipped end-to-end.
+- 🔬 **Research background** — MSc Computer Science, with focus on Privacy-Preserving Federated Learning and Medical AI.
+- 🌱 **Currently deepening** — Docker, AWS, and CI/CD for scalable, deployable backend infrastructure.
+
+---
 
 ### 🧠 Tech Stack
+
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,django,flask,fastapi,postgres,mysql,mongodb,react,js,tailwind,bootstrap,html,css,docker,aws,linux,git,githubactions,vscode,figma&theme=light"/>
+  <img src="https://skillicons.dev/icons?i=python,django,flask,fastapi,postgres,mysql,mongodb,react,js,tailwind,bootstrap,html,css,docker,aws,linux,git,githubactions,vscode,figma&theme=light"/>
 </p>
+
+| Layer | Tools |
+|---|---|
+| **Backend** | Python · Django · Django REST Framework · Flask · Celery |
+| **Databases** | PostgreSQL · MySQL · MongoDB |
+| **Auth & Security** | JWT · OAuth2 (Google/GitHub/LinkedIn/Facebook) · TOTP 2FA · OTP Email Flows |
+| **Frontend** | React.js · JavaScript (ES6+) · Tailwind CSS · Bootstrap |
+| **DevOps** | Docker · Git/GitHub · AWS (fundamentals) · Linux (Ubuntu) |
 
 ---
 
 ### 📌 Featured Work
 
-🔹 **[Secure Django Auth System](https://github.com/miansaibx7)**
-A production-ready auth backend featuring JWT rotation, 4-provider OAuth2, TOTP 2FA, atomic OTP flows, per-IP throttling, and full audit logging built on a strict service-layer architecture.
-> `Django` `DRF` `Simple JWT` `PyOTP` `PostgreSQL`
+#### 🔹 [Django Secure Auth System](https://github.com/miansaibx7)
+A production-grade authentication backend — not a tutorial clone. JWT access/refresh tokens with rotation & blacklisting, 4-provider OAuth2 login, TOTP 2FA with hashed backup codes, atomic OTP verification with brute-force lockout, per-IP/email login throttling, full audit logging, and GDPR-compliant scheduled account deletion. Built with a clean service-layer architecture so business logic never leaks into views or serializers.
+`Django` `DRF` `Simple JWT` `PyOTP` `PostgreSQL`
 
-🔹 **[EduManager Pro — School Management System](https://github.com/miansaibx7)**
-Multi-role platform with custom dashboards, permission-scoped data access, and a polished React UI layer.
-> `Django` `React` `PostgreSQL`
+#### 🔹 EduManager Pro — School Management System
+Multi-role platform (admin/teacher/student) with custom dashboards, permission-scoped data access, and a polished UI layer on top of a Django backend.
+`Django` `React` `PostgreSQL`
 
-🔹 **[Dynamic Room Booking Application](https://github.com/miansaibx7)**
+#### 🔹 Dynamic Room Booking Application
 Real-time availability tracking with grouped-date reservation views and conflict-safe booking logic.
-> `Django` `React` `REST APIs`
+`Django` `React` `REST APIs`
 
-🔹 **Hospital Management System (MSc Project)**
-Comprehensive patient/doctor record management with advanced reporting modules.
-> `Laravel` `PHP` `MySQL` `JavaScript`
+#### 🔹 Hospital Management System — Master's Project
+Patient/doctor record management with advanced reporting modules, built as part of my MSc research work.
+`Laravel` `PHP` `MySQL` `JavaScript`
 
 ---
 
-### 📊 GitHub Activity
+### 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api?username=miansaibx7&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
-  <img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=miansaibx7&layout=compact&theme=tokyonight&hide_border=true"/>
+  <img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api?username=miansaibx7&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
+  <img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=miansaibx7&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=miansaibx7&theme=tokyonight&hide_border=true"/>
+  <!-- FIX: github-readme-streak-stats.herokuapp.com is permanently dead —
+       Heroku shut down free-tier apps in Nov 2022 and this URL was never
+       migrated. streak-stats.demolab.com is the actively maintained
+       community mirror most profiles have since switched to. -->
+  <img src="https://streak-stats.demolab.com/?user=miansaibx7&theme=tokyonight&hide_border=true"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=miansaibx7&theme=tokyo-night&hide_border=true"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=miansaibx7&theme=tokyo-night&hide_border=true"/>
 </p>
+
+<!-- NOTE: the two vercel.app-hosted services above (github-readme-stats and
+     activity-graph) are free shared community deployments. They are
+     occasionally rate-limited under heavy global traffic and may show a
+     temporary error image — reloading the page usually fixes it within a
+     few minutes. If it persists for you specifically, the most likely
+     cause is the username in the URL not matching your actual GitHub
+     handle exactly (case-sensitive). If it stays broken long-term, you can
+     self-host github-readme-stats on your own free Vercel account by
+     forking https://github.com/anuraghazra/github-readme-stats and
+     pointing the URLs above at your own deployment instead of the shared
+     one — this removes the rate-limit risk entirely. -->
 
 ---
 
@@ -71,7 +103,12 @@ Comprehensive patient/doctor record management with advanced reporting modules.
 I'm open to collaborating on **SaaS platforms, EdTech, HealthTech, and AI-driven products** — especially where backend security and data integrity actually matter.
 
 <p align="center">
-  <a href="https://linkedin.com/in/mian-m-waqas"><img src="https://img.shields.io/badge/Let's%20Connect-0e75b6?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:mianmwaqas77@gmail.com"><img src="https://img.shields.io/badge/Say%20Hello-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://linkedin.com/in/mian-m-waqas">
+    <img src="https://img.shields.io/badge/Let's%20Connect-0e75b6?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:mianmwaqas77@gmail.com">
+    <img src="https://img.shields.io/badge/Say%20Hello-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
 </p>
-<p align="center"><i>⭐ If any of my repos helped you, a star goes a long way. Thanks for stopping by!</i></p>
+
+<p align="center"><i>⭐ If any of my repos helped you, a star goes a long way — thanks for stopping by.</i></p>
