@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0e75b6,100:00c9ff&height=220&section=header&text=Mian%20Muhammad%20Waqas&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Backend-Focused%20Full-Stack%20Engineer%20%7C%20Django%20%26%20DRF%20Specialist&descAlignY=55&descSize=18"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0e75b6,100:00c9ff&height=200&section=header&text=Mian%20Muhammad%20Waqas&fontSize=34&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Backend%20Engineer%20%7C%20Django%20%26%20DRF%20Specialist&descAlignY=52&descSize=16"/>
 </p>
 
 <p align="center">
@@ -12,55 +12,54 @@
   <img src="https://komarev.com/ghpvc/?username=miansaibx7&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
 </p>
 
-<h3 align="center">🚀 I design and ship secure, production-grade backend systems — not just CRUD apps.</h3>
+---
 
-<p align="center">
-I build the parts of an application most developers avoid: authentication, security, concurrency, and data integrity — the systems that fail silently in demos and loudly in production. My focus is Django/DRF backends that hold up under real users, real load, and real attackers.
-</p>
+### 🚀 I build production-grade backends — not CRUD apps.
+
+Authentication, security, concurrency, and data integrity. Systems that hold up under real users, real load, and real attackers.
 
 ---
 
-### ⚡ What I actually do
-- 🔐 **Secure auth systems** — JWT, OAuth2 (Google/GitHub/LinkedIn/Facebook), TOTP-based 2FA, OTP email verification, brute-force protection, and session/device management — built to survive concurrency, not just pass the happy path.
-- 🏗️ **Production-minded backend architecture** — service-layer separation, atomic transactions, row-level locking, audit logging, and GDPR-compliant data lifecycles.
-- 🎨 **Full-stack delivery** — Django REST APIs paired with React front-ends, shipped end-to-end.
-- 🔬 **Research background** — MSc Computer Science, with focus on Privacy-Preserving Federated Learning and Medical AI.
-- 🌱 **Currently deepening** — Docker, AWS, and CI/CD for scalable, deployable backend infrastructure.
+### ⚡ What I do
+
+- 🔐 **Secure auth systems** – JWT, OAuth2 (Google/GitHub/LinkedIn/Facebook), TOTP 2FA, OTP email flows, brute-force protection, session/device management.
+- 🏗️ **Backend architecture** – service-layer separation, atomic transactions, row‑level locking, audit logging, GDPR‑compliant data lifecycles.
+- 🎨 **Full-stack delivery** – Django REST APIs paired with React front‑ends.
+- 🔬 **Research background** – MSc Computer Science (Privacy‑Preserving Federated Learning, Medical AI).
+- 🌱 **Currently exploring** – Docker, AWS, CI/CD pipelines.
 
 ---
 
-### 🧠 Tech Stack
+### 🧰 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,django,flask,fastapi,postgres,mysql,mongodb,react,js,tailwind,bootstrap,html,css,docker,aws,linux,git,githubactions,vscode,figma&theme=light"/>
+  <img src="https://skillicons.dev/icons?i=python,django,flask,fastapi,postgres,mysql,mongodb,react,js,tailwind,bootstrap,docker,aws,linux,git,githubactions,vscode,figma&theme=light"/>
 </p>
 
-| Layer | Tools |
-|---|---|
-| **Backend** | Python · Django · Django REST Framework · Flask · Celery |
-| **Databases** | PostgreSQL · MySQL · MongoDB |
-| **Auth & Security** | JWT · OAuth2 (Google/GitHub/LinkedIn/Facebook) · TOTP 2FA · OTP Email Flows |
-| **Frontend** | React.js · JavaScript (ES6+) · Tailwind CSS · Bootstrap |
-| **DevOps** | Docker · Git/GitHub · AWS (fundamentals) · Linux (Ubuntu) |
+**Backend:** Python · Django · DRF · Flask · Celery  
+**Databases:** PostgreSQL · MySQL · MongoDB  
+**Auth:** JWT · OAuth2 · TOTP 2FA · OTP Email Flows  
+**Frontend:** React · JavaScript · Tailwind · Bootstrap  
+**DevOps:** Docker · Git/GitHub · AWS (fundamentals) · Linux
 
 ---
 
 ### 📌 Featured Work
 
 #### 🔹 [Django Secure Auth System](https://github.com/miansaibx7)
-A production-grade authentication backend — not a tutorial clone. JWT access/refresh tokens with rotation & blacklisting, 4-provider OAuth2 login, TOTP 2FA with hashed backup codes, atomic OTP verification with brute-force lockout, per-IP/email login throttling, full audit logging, and GDPR-compliant scheduled account deletion. Built with a clean service-layer architecture so business logic never leaks into views or serializers.
+Production‑grade authentication backend – JWT rotation & blacklisting, OAuth2 (4 providers), TOTP 2FA with backup codes, atomic OTP verification with brute‑force lockout, IP/email throttling, full audit logging, and GDPR‑compliant account deletion. Clean service‑layer architecture.
 `Django` `DRF` `Simple JWT` `PyOTP` `PostgreSQL`
 
-#### 🔹 EduManager Pro — School Management System
-Multi-role platform (admin/teacher/student) with custom dashboards, permission-scoped data access, and a polished UI layer on top of a Django backend.
+#### 🔹 EduManager Pro – School Management System
+Multi‑role platform (admin/teacher/student) with custom dashboards and permission‑scoped data access.
 `Django` `React` `PostgreSQL`
 
 #### 🔹 Dynamic Room Booking Application
-Real-time availability tracking with grouped-date reservation views and conflict-safe booking logic.
+Real‑time availability tracking with conflict‑safe booking logic.
 `Django` `React` `REST APIs`
 
-#### 🔹 Hospital Management System — Master's Project
-Patient/doctor record management with advanced reporting modules, built as part of my MSc research work.
+#### 🔹 Hospital Management System – MSc Project
+Patient/doctor record management with advanced reporting modules.
 `Laravel` `PHP` `MySQL` `JavaScript`
 
 ---
@@ -68,15 +67,11 @@ Patient/doctor record management with advanced reporting modules, built as part 
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api?username=miansaibx7&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
-  <img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=miansaibx7&layout=compact&theme=tokyonight&hide_border=true"/>
+  <img height="160" src="https://github-readme-stats-sigma-five.vercel.app/api?username=miansaibx7&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
+  <img height="160" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=miansaibx7&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
 <p align="center">
-  <!-- FIX: github-readme-streak-stats.herokuapp.com is permanently dead —
-       Heroku shut down free-tier apps in Nov 2022 and this URL was never
-       migrated. streak-stats.demolab.com is the actively maintained
-       community mirror most profiles have since switched to. -->
   <img src="https://streak-stats.demolab.com/?user=miansaibx7&theme=tokyonight&hide_border=true"/>
 </p>
 
@@ -84,23 +79,11 @@ Patient/doctor record management with advanced reporting modules, built as part 
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=miansaibx7&theme=tokyo-night&hide_border=true"/>
 </p>
 
-<!-- NOTE: the two vercel.app-hosted services above (github-readme-stats and
-     activity-graph) are free shared community deployments. They are
-     occasionally rate-limited under heavy global traffic and may show a
-     temporary error image — reloading the page usually fixes it within a
-     few minutes. If it persists for you specifically, the most likely
-     cause is the username in the URL not matching your actual GitHub
-     handle exactly (case-sensitive). If it stays broken long-term, you can
-     self-host github-readme-stats on your own free Vercel account by
-     forking https://github.com/anuraghazra/github-readme-stats and
-     pointing the URLs above at your own deployment instead of the shared
-     one — this removes the rate-limit risk entirely. -->
-
 ---
 
-### 🤝 Let's Build Something Solid
+### 🤝 Let's build something solid
 
-I'm open to collaborating on **SaaS platforms, EdTech, HealthTech, and AI-driven products** — especially where backend security and data integrity actually matter.
+Open to collaborating on **SaaS, EdTech, HealthTech, and AI‑driven products** — especially where backend security and data integrity matter.
 
 <p align="center">
   <a href="https://linkedin.com/in/mian-m-waqas">
@@ -111,4 +94,8 @@ I'm open to collaborating on **SaaS platforms, EdTech, HealthTech, and AI-driven
   </a>
 </p>
 
-<p align="center"><i>⭐ If any of my repos helped you, a star goes a long way — thanks for stopping by.</i></p>
+<p align="center"><i>⭐ If any repo helped you, a star goes a long way — thanks for stopping by.</i></p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0e75b6,100:00c9ff&height=120&section=footer"/>
+</p>
