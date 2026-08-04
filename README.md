@@ -1,15 +1,21 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0e75b6,100:00c9ff&height=220&section=header&text=Mian%20Muhammad%20Waqas&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Backend-Focused%20Full-Stack%20Engineer%20%7C%20Django%20%26%20DRF%20Specialist&descAlignY=55&descSize=18" alt="Header Image"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0E75B6,100:38BDF8&height=220&section=header&text=Mian%20Muhammad%20Waqas&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Software%20Engineer%20|%20Backend%20Developer%20|%20HealthTech%20Researcher&descAlignY=58&descSize=18"/>
 </p>
 
 <p align="center">
   <a href="https://linkedin.com/in/mian-m-waqas">
-    <img src="https://img.shields.io/badge/LinkedIn-0e75b6?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="mailto:mianmwaqas77@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  <img src="https://komarev.com/ghpvc/?username=miansaibx7&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
+  <a href="https://github.com/Miansaibx7">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=miansaibx7&style=for-the-badge&color=0E75B6"/>
 </p>
 
 <h3 align="center">🚀 I design and ship secure, production-grade backend systems — not just CRUD apps.</h3>
@@ -47,7 +53,7 @@ I build the parts of an application most developers avoid: authentication, secur
 
 ### 📌 Featured Work
 
-#### 🔹 [Django Secure Auth System](https://github.com/miansaibx7)
+#### 🔹 Django Secure Auth System
 A production-grade authentication backend — not a tutorial clone. JWT access/refresh tokens with rotation & blacklisting, 4-provider OAuth2 login, TOTP 2FA with hashed backup codes, atomic OTP verification with brute-force lockout, per-IP/email login throttling, full audit logging, and GDPR-compliant scheduled account deletion. Built with a clean service-layer architecture so business logic never leaks into views or serializers.
 `Django` `DRF` `Simple JWT` `PyOTP` `PostgreSQL`
 
@@ -73,10 +79,6 @@ Patient/doctor record management with advanced reporting modules, built as part 
 </p>
 
 <p align="center">
-  <!-- FIX: github-readme-streak-stats.herokuapp.com is permanently dead —
-       Heroku shut down free-tier apps in Nov 2022 and this URL was never
-       migrated. streak-stats.demolab.com is the actively maintained
-       community mirror most profiles have since switched to. -->
   <img src="https://streak-stats.demolab.com/?user=miansaibx7&theme=tokyonight&hide_border=true"/>
 </p>
 
